@@ -1,0 +1,21 @@
+header h1 {
+  text-align: center;
+}
+
+header h2 {
+  color: #d26c22;
+}
+
+#searchForm {
+  display: flex;
+  justify-content: center;
+}
+
+.weatherwidget {
+  font-family: Roboto, sans-serif;
+}
+
+#temp {
+  background: #999;
+  border-radius: 8px;
+}
